@@ -1,0 +1,6 @@
+1 BMW        blue    3door   automat
+2 Mercedes   black   4door   automat
+3 Subaru     red     2door   manual
+4 Opel       blue    4door   tip-tronic
+5 Toyota     white   5door   automat
+6 Volkswagen yellow  4door   manual
